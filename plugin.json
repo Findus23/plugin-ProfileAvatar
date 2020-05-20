@@ -1,0 +1,29 @@
+{
+  "name": "ProfileAvatar",
+  "description": "Show a random avatar on the Visitor Profile",
+  "version": "0.1.0",
+  "theme": false,
+  "require": {
+    "matomo": ">3.13.0,<5.0.0-b1",
+    "piwik": ">=3.13.0,<5.0.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Lukas Winkler",
+      "email": "lukas@matomo.org",
+      "homepage": "https://lw1.at"
+    }
+  ],
+  "support": {
+    "email": "lukas@matomo.org",
+    "issues": "https://github.com/Findus23/plugin-ProfileAvatar/issues",
+    "forum": "https://forum.matomo.org",
+    "source": "https://github.com/Findus23/plugin-ProfileAvatar"
+  },
+  "homepage": "https://lw1.at",
+  "license": "GPL v3+",
+  "keywords": [
+    "Visitor Profile",
+    "profile picture"
+  ]
+}

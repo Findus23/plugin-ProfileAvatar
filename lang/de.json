@@ -1,0 +1,8 @@
+{
+  "ProfileAvatar": {
+    "AvatarTypeTitle": "Avatar Typ",
+    "AvatarTypeDescription": "Wähle das Aussehen der Avatars aus.",
+    "DataURLsTitle": "Verwende data URLs",
+    "DataURLsDescription": "Wenn dies aktiviert ist, werden die Bilder in der ursprünglichen Anfrage mitgesendet, was die Ladezeit verringert, aber vor allem bei den größeren Bildern die Größe von API Anfragen stark erhöhen kann."
+  }
+}

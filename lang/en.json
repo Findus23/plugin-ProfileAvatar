@@ -1,0 +1,8 @@
+{
+  "ProfileAvatar": {
+    "AvatarTypeTitle": "Avatar Type",
+    "AvatarTypeDescription": "Choose the mode for generating avatars.",
+    "DataURLsTitle": "Use data URLs",
+    "DataURLsDescription": "Enabling this ships the images in the main request which causes them to load much faster, but especially with larger images this can bloat the API requests."
+  }
+}
