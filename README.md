@@ -12,4 +12,5 @@ This plugin creates randomly generated user avatars based on the visitorID inspi
 - Identicon (based on [indenticon.js](https://github.com/stewartlord/identicon.js) by Stewart Lord)
 - Blockies (based on [blockies](https://github.com/download13/blockies) by Erin Dachtler)
 
-In the Personal Settings every use can choose which avatar type they want to see.
+In the Personal Settings every use can choose which avatar type they want to see. 
+No data is shared with other services as all images are generated locally.

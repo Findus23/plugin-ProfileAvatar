@@ -1,10 +1,10 @@
 {
   "name": "ProfileAvatar",
   "description": "Show a random avatar on the Visitor Profile",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "theme": false,
   "require": {
-    "piwik": ">=3.13.0,<5.0.0-b1"
+    "matomo": ">=3.13.0,<5.0.0-b1"
   },
   "authors": [
     {
