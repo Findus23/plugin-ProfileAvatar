@@ -1,7 +1,7 @@
 {
   "name": "ProfileAvatar",
   "description": "Show a random avatar on the Visitor Profile",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "theme": false,
   "require": {
     "matomo": ">=3.13.0,<5.0.0-b1"
