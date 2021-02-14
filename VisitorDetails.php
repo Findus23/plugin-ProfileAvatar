@@ -20,9 +20,4 @@ class VisitorDetails extends VisitorDetailsAbstract
             $profile['visitorAvatar'] = "?module=ProfileAvatar&action=getProfileAvatar&hash=$hash";
         }
     }
-
-    public function extendVisitorDetails(&$visitor)
-    {
-    }
-
 }

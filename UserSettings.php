@@ -20,6 +20,9 @@ class UserSettings extends \Piwik\Settings\Plugin\UserSettings
     /** @var Setting */
     public $dataURLs;
 
+    /** @var Setting */
+    public $showInVisitorLog;
+
     protected $title = "Visitor Profile Avatar";
 
     protected function init()
@@ -27,9 +30,11 @@ class UserSettings extends \Piwik\Settings\Plugin\UserSettings
         $this->avatarType = $this->createAvatarTypeSetting();
 
         $this->dataURLs = $this->createDataURLsSetting();
+
+        $this->showInVisitorLog = $this->createShowInVisitorLogSetting();
     }
 
-    private function createAvatarTypeSetting():Setting
+    private function createAvatarTypeSetting(): Setting
     {
         return $this->makeSetting("avatarType", "CatAvatar", FieldConfig::TYPE_STRING, function (FieldConfig $field) {
             $field->title = Piwik::translate('ProfileAvatar_AvatarTypeTitle');;
@@ -39,12 +44,21 @@ class UserSettings extends \Piwik\Settings\Plugin\UserSettings
         });
     }
 
-    private function createDataURLsSetting():Setting
+    private function createDataURLsSetting(): Setting
     {
         return $this->makeSetting("dataURLs", FALSE, FieldConfig::TYPE_BOOL, function (FieldConfig $field) {
             $field->title = Piwik::translate('ProfileAvatar_DataURLsTitle');
             $field->uiControl = FieldConfig::UI_CONTROL_CHECKBOX;
             $field->description = Piwik::translate('ProfileAvatar_DataURLsDescription');
+        });
+    }
+
+    private function createShowInVisitorLogSetting(): Setting
+    {
+        return $this->makeSetting("showInVisitorLog", FALSE, FieldConfig::TYPE_BOOL, function (FieldConfig $field) {
+            $field->title = Piwik::translate('ProfileAvatar_ShowInVisitorLogTitle');
+            $field->uiControl = FieldConfig::UI_CONTROL_CHECKBOX;
+            $field->description = Piwik::translate('ProfileAvatar_ShowInVisitorLogDescription');
         });
     }
 }
