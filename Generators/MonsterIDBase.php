@@ -23,7 +23,7 @@ class MonsterIDBase extends AvatarBase
 
     public function __destruct()
     {
-        if ($this->monster) {
+        if ($this->monster && is_resource($this->monster)) {
             imagedestroy($this->monster);
         }
     }
