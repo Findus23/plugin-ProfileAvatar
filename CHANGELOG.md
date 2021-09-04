@@ -1,13 +1,17 @@
 ## Changelog
 
-### 0.1.0
+### 0.1.5
 
-initial release
+add German, Greek and Turkish translations
+
+### 0.1.2
+
+Matomo 4 compatibility
 
 ### 0.1.1
 
 fix invalid plugin.json
 
-### 0.1.2
+### 0.1.0
 
-Matomo 4 compatibility
+initial release

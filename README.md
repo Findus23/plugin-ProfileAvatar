@@ -1,5 +1,7 @@
 # Matomo ProfileAvatar Plugin
 
+[![Translation status](https://hosted.weblate.org/widgets/matomo/-/communityplugin-profileavatar/svg-badge.svg)](https://hosted.weblate.org/projects/matomo/communityplugin-profileavatar/)
+
 ## Description
 
 Are you tired of always seeing the same placeholder profile picture in the Vistitor Profile?
