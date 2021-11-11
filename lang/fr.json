@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Choisissez le mode de génération des avatars.",
+        "AvatarTypeTitle": "Type d'avatar",
+        "DataURLsDescription": "L'activation de cette option envoie les images dans la requête principale, ce qui les oblige à se charger beaucoup plus rapidement, mais en particulier avec des images plus grandes, cela peut gonfler les requêtes API.",
+        "DataURLsTitle": "Utiliser des URL de données",
+        "ShowInVisitorLogDescription": "L'activation de cette option affiche également l'avatar dans le journal des visiteurs.",
+        "ShowInVisitorLogTitle": "Afficher dans le journal des visiteurs"
+    }
+}
