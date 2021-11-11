@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "アバターを生成するためのモードを選択します。",
+        "AvatarTypeTitle": "アバタータイプ",
+        "DataURLsDescription": "この機能を有効にすると、メインのリクエストに画像が格納されるため、画像の読み込みが非常に速くなりますが、特に大きな画像の場合は、APIリクエストが肥大化する可能性があります。",
+        "DataURLsTitle": "データURLの使用",
+        "ShowInVisitorLogDescription": "これを有効にすると、訪問者ログにもアバターが表示されます。",
+        "ShowInVisitorLogTitle": "訪問者ログに表示"
+    }
+}
