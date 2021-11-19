@@ -1,5 +1,9 @@
 ## Changelog
 
+### 0.1.6
+
+add French, Japanese, Italian, Portuguese, Portuguese (Brazil) and Ukrainian translations
+
 ### 0.1.5
 
 add German, Greek and Turkish translations
