@@ -1,1 +1,7 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Seleziona la modalità per generare gli avatar.",
+        "AvatarTypeTitle": "Tipo di avatar",
+        "ShowInVisitorLogTitle": "Mostra nel log visitatori"
+    }
+}
