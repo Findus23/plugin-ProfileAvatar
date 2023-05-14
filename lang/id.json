@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Pilih mode untuk membuat avatar.",
+        "AvatarTypeTitle": "Tipe Avatar",
+        "DataURLsDescription": "Mengaktifkan ini akan mengirimkan gambar ke permintaan utama yang menyebabkannya memuat lebih cepat, tetapi gambar yang lebih besar dapat membuat permintaan API membengkak.",
+        "DataURLsTitle": "Gunakan URL data",
+        "ShowInVisitorLogDescription": "Mengaktifkan ini juga akan menampilkan avatar di Log Pengunjung.",
+        "ShowInVisitorLogTitle": "Tampilkan di Log Pengunjung"
+    }
+}
