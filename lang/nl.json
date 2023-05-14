@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Kies de modus voor het genereren van avatars.",
+        "AvatarTypeTitle": "Avatar type",
+        "DataURLsDescription": "Als u dit inschakelt, worden de afbeeldingen in het hoofdverzoek verzonden waardoor ze veel sneller worden geladen, maar vooral bij grotere afbeeldingen kan dit de API-verzoeken verzwaren.",
+        "DataURLsTitle": "Gegevens-URL's gebruiken",
+        "ShowInVisitorLogDescription": "Door dit in te schakelen wordt de avatar ook in de Bezoekerslog getoond.",
+        "ShowInVisitorLogTitle": "Weergeven in bezoekerslogboek"
+    }
+}
