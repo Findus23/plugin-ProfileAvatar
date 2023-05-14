@@ -2,6 +2,9 @@
     "ProfileAvatar": {
         "AvatarTypeDescription": "Seleziona la modalità per generare gli avatar.",
         "AvatarTypeTitle": "Tipo di avatar",
+        "DataURLsDescription": "Abilitando questa opzione, le immagini vengono inviate nella richiesta principale, il che ne determina un caricamento molto più rapido, ma soprattutto con immagini di grandi dimensioni, questo può appesantire le richieste API.",
+        "DataURLsTitle": "Usa URL \"data:\"",
+        "ShowInVisitorLogDescription": "Abilitando questa opzione, l'avatar viene visualizzato anche nel Registro visitatori.",
         "ShowInVisitorLogTitle": "Mostra nel log visitatori"
     }
 }
