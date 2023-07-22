@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "아바타를 생성하는 모드를 선택합니다.",
+        "AvatarTypeTitle": "아바타 유형",
+        "DataURLsDescription": "이 기능을 활성화하면 기본 요청에 이미지가 저장되므로 이미지 불러오기가 매우 빨라지지만, 특히 더 큰 이미지의 경우 API 요청이 커질 수 있습니다.",
+        "DataURLsTitle": "데이터 URL 사용",
+        "ShowInVisitorLogDescription": "이를 활성화하면 방문자 로그에 아바타도 표시됩니다.",
+        "ShowInVisitorLogTitle": "방문자 로그에 표시"
+    }
+}

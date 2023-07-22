@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Trieu el mode per generar avatars.",
+        "AvatarTypeTitle": "Tipus d'avatar",
+        "DataURLsDescription": "Si activeu això s'envien les imatges a la sol·licitud principal, cosa que fa que es carreguin molt més ràpidament, però sobretot amb imatges més grans això pot disparar les sol·licituds de l'API.",
+        "DataURLsTitle": "Utilitzeu URL de dades",
+        "ShowInVisitorLogDescription": "En activar-ho també es mostra l'avatar al registre de visitants.",
+        "ShowInVisitorLogTitle": "Mostra al registre de visitants"
+    }
+}

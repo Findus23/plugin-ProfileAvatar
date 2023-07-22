@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Elige el modo de generar avatares.",
+        "AvatarTypeTitle": "Tipo de avatar",
+        "DataURLsDescription": "Al activar esto, las imágenes se envían en la solicitud principal, lo que hace que se carguen mucho más rápido, pero especialmente con las imágenes más grandes esto puede inflar las solicitudes de la API.",
+        "DataURLsTitle": "Utilizar URLs de datos",
+        "ShowInVisitorLogDescription": "Al activar esto también se muestra el avatar en el registro de visitantes.",
+        "ShowInVisitorLogTitle": "Mostrar en registro de visitantes"
+    }
+}

@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "選擇生成頭像的模式。",
+        "AvatarTypeTitle": "頭像類型",
+        "DataURLsDescription": "啟用此選項，將圖片隨主請求傳送，這會加快載入速度。但如果是較大的圖片，會使得 API 請求變得龐大。",
+        "DataURLsTitle": "使用 data URL",
+        "ShowInVisitorLogDescription": "啟用此選項，以在訪問者紀錄中也顯示頭像。",
+        "ShowInVisitorLogTitle": "顯示在訪問者紀錄中"
+    }
+}

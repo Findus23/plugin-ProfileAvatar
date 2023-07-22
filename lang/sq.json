@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Zgjidhni mënyrën për prodhimin e avatarëve.",
+        "AvatarTypeTitle": "Lloj Avatari",
+        "DataURLsDescription": "Aktivizimi i kësaj sjell dërgimin e figurave te kërkesa bazë, çka bën që të ngarkohen shumë më shpejt, por, veçanërisht me figura më të mëdha, kjo mund të fryjë kërkesat ndaj API-t.",
+        "DataURLsTitle": "Përdor URL-ra të dhënash",
+        "ShowInVisitorLogDescription": "Aktivizimi i kësaj sjell shfaqjen e avatarit te Regjistër Vizitorësh.",
+        "ShowInVisitorLogTitle": "Shfaqe te Regjistër Vizitorësh"
+    }
+}

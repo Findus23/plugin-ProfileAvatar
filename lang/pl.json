@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Wybierz tryb generowania awatarów.",
+        "AvatarTypeTitle": "Typ awatara",
+        "DataURLsDescription": "Włączenie tego powoduje, że obrazy są przesyłane w głównym żądaniu, co powoduje, że ładują się znacznie szybciej, ale szczególnie w przypadku większych obrazów może to spowodować wiele żądań API.",
+        "DataURLsTitle": "Używanie adresów URL danych",
+        "ShowInVisitorLogDescription": "Włączenie tej funkcji powoduje również wyświetlenie awatara w dzienniku odwiedzin.",
+        "ShowInVisitorLogTitle": "Pokaż w dzienniku odwiedzin"
+    }
+}

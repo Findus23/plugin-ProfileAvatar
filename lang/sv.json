@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Välj hur du vill skapa avatarer.",
+        "AvatarTypeTitle": "Avatartyp",
+        "DataURLsDescription": "Om du aktiverar detta skickas bilderna i huvudbegäran vilket gör att de laddas mycket snabbare, men särskilt med större bilder kan detta svälla upp API-förfrågningarna.",
+        "DataURLsTitle": "Använd data-URL:er",
+        "ShowInVisitorLogDescription": "Om du aktiverar detta visas även avataren i besöksloggen.",
+        "ShowInVisitorLogTitle": "Visa i besökslogg"
+    }
+}
