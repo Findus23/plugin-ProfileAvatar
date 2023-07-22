@@ -2,7 +2,6 @@
 
 namespace Piwik\Plugins\ProfileAvatar;
 
-use Piwik\Common;
 use Piwik\Piwik;
 
 class Controller extends \Piwik\Plugin\Controller
@@ -13,7 +12,8 @@ class Controller extends \Piwik\Plugin\Controller
     public function getProfileAvatar(): void
     {
         Piwik::checkUserHasSomeViewAccess();
-        $hash = Common::getRequestVar('hash', "", 'string');
+        $request = \Piwik\Request::fromRequest();
+        $hash = $request->getStringParameter('hash', "");
         $settings = new UserSettings();
         $chosenGenerator = $settings->avatarType->getValue();
         $generator = GeneratorCollection::getGeneratorClasses($chosenGenerator, $hash);
