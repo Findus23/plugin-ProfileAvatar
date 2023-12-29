@@ -1,0 +1,10 @@
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "અવતાર જનરેટ કરવા માટે મોડ પસંદ કરો.",
+        "AvatarTypeTitle": "અવતારનો પ્રકાર",
+        "DataURLsDescription": "આને સક્ષમ કરવાથી મુખ્ય વિનંતીમાં છબીઓ મોકલવામાં આવે છે જેના કારણે તે ખૂબ ઝડપથી લોડ થાય છે, પરંતુ ખાસ કરીને મોટી છબીઓ સાથે આ API વિનંતીઓને વિસ્તૃત કરી શકે છે.",
+        "DataURLsTitle": "ડેટા URL નો ઉપયોગ કરો",
+        "ShowInVisitorLogDescription": "આને સક્ષમ કરવાથી વિઝિટર લોગમાં અવતાર દેખાય છે.",
+        "ShowInVisitorLogTitle": "વિઝિટર લોગમાં બતાવો"
+    }
+}
