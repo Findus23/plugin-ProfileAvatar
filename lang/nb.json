@@ -4,7 +4,7 @@
         "AvatarTypeTitle": "Avatartype",
         "DataURLsDescription": "Sender bildene i hovedforespørselen (som kan gjøre innlastingen raskere, men spesielt store bilder kan sende for mange API-forespørsler).",
         "DataURLsTitle": "Bruk datanettadresser",
-        "ShowInVisitorLogDescription": "Å skru på dette viser også avataren i besøksloggen.",
+        "ShowInVisitorLogDescription": "Når dette er skrudd på, vises avataren også i besøksloggen.",
         "ShowInVisitorLogTitle": "Vis i besøkslogg"
     }
 }
