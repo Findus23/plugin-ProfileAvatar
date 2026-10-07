@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Odaberi modus za generiranja avatara.",
+        "AvatarTypeTitle": "Vrsta avatara",
+        "DataURLsDescription": "Aktiviranjem ove opcije se slike šalju u glavnom zahtjevu što uzrokuje njihovo brže učitavanje, ali posebno kod većih slika to može povećati količinu API zahtjeva.",
+        "DataURLsTitle": "Koristi URL-ove podtaka",
+        "ShowInVisitorLogDescription": "Aktiviranjem ove opcije avatar se također prikazuje u dnevniku posjetitelja.",
+        "ShowInVisitorLogTitle": "Prikaži u dnevniku posjetitelja"
+    }
+}

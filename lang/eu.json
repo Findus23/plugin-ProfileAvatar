@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Aukeratu abatarrak sortzeko modua.",
+        "AvatarTypeTitle": "Abatar mota",
+        "DataURLsDescription": "Hau gaituz gero, irudiak eskaera nagusian bidaltzen dira, eta horren eraginez askoz azkarrago kargatzen dira, baina API eskaeren tamaina puztu daiteke, batez ere irudiak handiak direnean.",
+        "DataURLsTitle": "Erabili datuen URLak",
+        "ShowInVisitorLogDescription": "Hau gaituz gero abatarrak erakutsiko dira Bisitarien egunkarian.",
+        "ShowInVisitorLogTitle": "Erakutsi Bisitarien egunkarian"
+    }
+}

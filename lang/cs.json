@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Zvolte režim pro generování avatarů.",
+        "AvatarTypeTitle": "Typ Avataru",
+        "DataURLsDescription": "Pokud tuto funkci povolíte, budou obrázky odeslány v hlavním požadavku, což způsobí jejich mnohem rychlejší načtení, ale zejména u větších obrázků to může způsobit, že se požadavky API zvětší.",
+        "DataURLsTitle": "Použijte data URL adresy",
+        "ShowInVisitorLogDescription": "Pokud tuto funkci povolíte, zobrazí se avatar také v protokolu návštěvníků.",
+        "ShowInVisitorLogTitle": "Zobrazit v protokolu návštěvníků"
+    }
+}

@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Valitse avatarien luontitila.",
+        "AvatarTypeTitle": "Avatarin tyyppi",
+        "DataURLsDescription": "Tämän käyttöönotto lähettää kuvat pääpyynnössä, mikä nopeuttaa niiden latautumista huomattavasti, mutta etenkin suurempien kuvien kohdalla tämä voi paisuttaa API-pyyntöjä.",
+        "DataURLsTitle": "Käytä data-URL-osoitteita",
+        "ShowInVisitorLogDescription": "Tämän käyttöönotto näyttää myös avatarin Vierailijalokissa.",
+        "ShowInVisitorLogTitle": "Näytä Kävijälokissa"
+    }
+}

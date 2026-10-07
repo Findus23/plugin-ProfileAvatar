@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Vel korleis avatarar skal lagast.",
+        "AvatarTypeTitle": "Avatartype",
+        "DataURLsDescription": "Når dette er skrudd på, blir bileta sende med i hovudførespurnaden, slik at dei lastar mykje raskare, men særleg med store bilete kan det gjere API-førespurnadene mykje større.",
+        "DataURLsTitle": "Bruk data-URL-ar",
+        "ShowInVisitorLogDescription": "Når dette er skrudd på, blir avataren òg vist i besøksloggen.",
+        "ShowInVisitorLogTitle": "Vis i besøksloggen"
+    }
+}

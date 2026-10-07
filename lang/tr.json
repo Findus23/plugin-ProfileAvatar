@@ -2,9 +2,9 @@
     "ProfileAvatar": {
         "AvatarTypeDescription": "Avatar oluşturma kipini seçin.",
         "AvatarTypeTitle": "Avatar türü",
-        "DataURLsDescription": "Bu seçenek etkinleştirildiğinde, görseller ana istekte gönderilir ve çok daha hızlı yüklenir. Ancak özellikle büyük görsellerde API istekleri tıkanabilir.",
+        "DataURLsDescription": "Bu seçenek açıldığında, görseller ana istekte gönderilir ve çok daha hızlı yüklenir. Ancak özellikle büyük görsellerde API istekleri tıkanabilir.",
         "DataURLsTitle": "Veri adresleri kullanılsın",
-        "ShowInVisitorLogDescription": "Bu seçenek etkinleştirildiğinde, avatar ziyaretçi günlüğünde de görüntülenir.",
+        "ShowInVisitorLogDescription": "Bu seçenek açıldığında, avatar ziyaretçi günlüğünde de görüntülenir.",
         "ShowInVisitorLogTitle": "Ziyaretçi günlüğünde görüntülensin"
     }
 }

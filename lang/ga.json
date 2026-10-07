@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Roghnaigh an modh chun avatars a ghiniúint.",
+        "AvatarTypeTitle": "Cineál avatar",
+        "DataURLsDescription": "Má chuirtear ar chumas é seo na híomhánna a sheoladh sa phríomhiarratas, rud a fhágann go n-lódálann siad i bhfad níos tapúla, ach go háirithe le híomhánna níos mó is féidir leis seo na hiarratais API a shlánú.",
+        "DataURLsTitle": "Úsáid URLanna sonraí",
+        "ShowInVisitorLogDescription": "Agus é seo á chumasú taispeánann sé an avatar sa Loga Cuairteoirí.",
+        "ShowInVisitorLogTitle": "Taispeáin i Loga na gCuairteoirí"
+    }
+}
